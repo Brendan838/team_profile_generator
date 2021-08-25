@@ -1,0 +1,15 @@
+#mainContainer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.jumbotron {
+	background-color: #5cb85c;
+	text-align: center; 
+}
+
+.border-success {
+	padding: 6px;
+	margin: 6px;
+}
